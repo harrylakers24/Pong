@@ -1,3 +1,3 @@
 "# Pong" 
 
-Simple POng Game made in Python
+Simple Pong Game made in Python
